@@ -102,7 +102,7 @@
       <Application_Order_URL>https://hearty.me</Application_Order_URL>
       <Application_Screenshot_URL>https://d.hearty.app/win/pad/screenshot.png</Application_Screenshot_URL>
       <Application_Icon_URL>https://d.hearty.app/win/pad/icon.png</Application_Icon_URL>
-      <Application_XML_File_URL>http://repository.appvisor.com/app-d4002460db27/site-01/Hearty_Journal_pad.xml</Application_XML_File_URL>
+      <Application_XML_File_URL>https://d.hearty.app/win/pad/pad.xml</Application_XML_File_URL>
       <Video_Link_1_URL>https://www.youtube.com/watch?v=YreNs2bJVRY</Video_Link_1_URL>
       <Video_Link_2_URL>https://www.youtube.com/watch?v=-32uK2ZVxHc</Video_Link_2_URL>
     </Application_URLs>
